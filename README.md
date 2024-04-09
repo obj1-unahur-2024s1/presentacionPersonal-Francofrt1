@@ -1,9 +1,9 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 Bienvenidos a
-# Programación con objetos I
+# Programaciï¿½n con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
+En esta materia aprenderï¿½n sobre la famosa POO _(OOP en inglï¿½s)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
 Para ello usaremos como herramienta el lenguaje Wollok.
 
 ```
@@ -16,13 +16,13 @@ object programacionConObjetos {
 
 ## Datos de la cursada :book:
 * Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
+* Horario comisiï¿½n 1 **turno noche**: Martes 18 a 22hs y Sï¿½bado 10 a 12hs.
+* Horario comisiï¿½n 2 **turno maï¿½ana**: Miï¿½rcoles 8 a 12hs y Sï¿½bado 10 a 12hs. 
+* Este cuatrimestre los profesores somos Gerardo Gonzï¿½lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hernï¿½n Coniglio
+* Ademï¿½s nos acompaï¿½an como colaboradores Valentino Chiappanni, Manuel Nuï¿½ez y Lucian Coniglio.
 
 ## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
+- [x] [Pï¿½gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
 - [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
 - [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
 
@@ -30,6 +30,8 @@ object programacionConObjetos {
 ### Referencias Markdown 
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+* [Guï¿½a Rï¿½pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglï¿½s)_
 
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+Franco Toscano
